@@ -1,4 +1,4 @@
-package OOPBasicUPB.generics;
+package random.generics;
 
 public interface BMW extends Car {
 

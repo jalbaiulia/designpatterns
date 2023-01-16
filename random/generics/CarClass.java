@@ -1,4 +1,4 @@
-package OOPBasicUPB.generics;
+package random.generics;
 
 public class CarClass implements Car{
 
